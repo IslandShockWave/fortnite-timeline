@@ -1,3 +1,9 @@
+---
+layout: default
+title: Fortnite Lore
+---
+
+<link rel="stylesheet" type="text/css" href="style.css">
 
 # **Fortnite Chapter 1 Lore Timeline**
 
