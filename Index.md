@@ -1,7 +1,3 @@
----
-layout: default
-title: Fortnite Chapter 1 Lore
----
 
 # **Fortnite Chapter 1 Timeline**
 
