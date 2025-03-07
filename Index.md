@@ -36,10 +36,5 @@ Check out the full **timeline** [here](lore.md)!
 | Season X | The End & Black Hole |
 
 ---
-### **Embedded Image**
-![Fortnite Map](https://upload.wikimedia.org/wikipedia/en/0/04/Fortnite_Season_One_map.png)
-*Source: Wikipedia*
-
----
-### **Embedded Video**
-[![Watch The End Event](https://img.youtube.com/vi/8YeYF1x2-Mk/0.jpg)](https://www.youtube.com/watch?v=1j6fjivY2Z8)
+### **Season X Event**
+[![Watch The End Event]](https://www.youtube.com/watch?v=1j6fjiv
