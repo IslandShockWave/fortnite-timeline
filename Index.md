@@ -37,4 +37,5 @@ Check out the full **timeline** [here](lore.md)!
 
 ---
 ### **Season X Event**
-![Watch The End Event](https://www.youtube.com/watch?v=1j6fjivY2Z8)
+[![Watch The End Event](![image](https://github.com/user-attachments/assets/8072d9a9-3cef-4a62-982a-ec51e03cf763)
+)](https://www.youtube.com/watch?v=1j6fjivY2Z8)
