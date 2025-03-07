@@ -42,4 +42,4 @@ Check out the full **timeline** [here](lore.md)!
 
 ---
 ### **Embedded Video**
-[![Watch The End Event](https://img.youtube.com/vi/8YeYF1x2-Mk/0.jpg)](https://www.youtube.com/watch?v=8YeYF1x2-Mk)
+[![Watch The End Event](https://img.youtube.com/vi/8YeYF1x2-Mk/0.jpg)](https://www.youtube.com/watch?v=1j6fjivY2Z8)
