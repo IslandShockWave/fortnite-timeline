@@ -55,4 +55,4 @@ title: Fortnite Lore
 - The final **End Event** occurs, where the **entire island is sucked into a Black Hole**.  
 - Fortnite goes offline for **two days**, leading to **Chapter 2**.  
 
-[Back to Home](index.md)
+[Back to Home](https://github.com/IslandShockWave/fortnite-timeline/blob/main/Index.md)
