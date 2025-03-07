@@ -1,30 +1,45 @@
-# Fortnite Lore Timeline (Chapter 1, Season 1 - Chapter 6, Season 1)
+---
+layout: default
+title: Fortnite Chapter 1 Lore
+---
 
-Welcome to the Fortnite lore timeline! Here we explore the story behind Fortnite, starting from Chapter 1, Season 1 to Chapter 6, Season 1.
+# **Fortnite Chapter 1 Timeline**
 
-## [Chapter 1: Season 1](chapter1.md)
-Explore the beginning of the Fortnite universe.
+Welcome to my Fortnite Chapter 1 timeline website! Explore the **lore** from Season 1 to Season X.
 
-## [Chapter 1: Season 2](chapter2.md)
-The rise of the Battle Pass and new challenges.
+## **Pages:**
+- [Fortnite Lore Timeline](lore.md)
 
-## [Chapter 1: Season 3](chapter3.md)
-The space theme arrives!
+## **Features of this Website:**
+- Multiple pages linked together
+- **Bold** and *italic* text
+- Ordered and unordered lists
+- A table summarizing key events
+- An embedded **image** and **video**
+- Custom colors for text and backgrounds
 
-## [Chapter 1: Season 4](chapter4.md)
-Superheroes and meteors.
+Check out the full **timeline** [here](lore.md)!
 
-## [Chapter 1: Season 5](chapter5.md)
-The world gets more complex.
+---
+### **Table of Seasons**
+| Season | Event |
+|--------|--------------------------|
+| Season 1 | The Beginning |
+| Season 2 | Midevil Era |
+| Season 3 | A Meteor Approaches |
+| Season 4 | The Meteor Crash |
+| Season 5 | Worlds Collide |
+| Season 6 | Kevin the Cube Explodes |
+| Season 7 | The Ice King Arrives |
+| Season 8 | The Volcane & the Unvaulting |
+| Season 9 | Monster vs. Mecha Battle |
+| Season X | The End & Black Hole |
 
-## [Chapter 1: Season 6](chapter6.md)
-A haunted, mysterious season.
+---
+### **Embedded Image**
+![Fortnite Map](https://upload.wikimedia.org/wikipedia/en/0/04/Fortnite_Season_One_map.png)
+*Source: Wikipedia*
 
-## [Chapter 2: Season 1](chapter7.md)
-A fresh new chapter, new realities.
-
-## [Chapter 3: Season 1](chapter8.md)
-The Fortnite Island continues to evolve.
-
-## [Chapter 6: Season 1](chapter9.md)
-The latest season's big reveals!
+---
+### **Embedded Video**
+[![Watch The End Event](https://img.youtube.com/vi/8YeYF1x2-Mk/0.jpg)](https://www.youtube.com/watch?v=8YeYF1x2-Mk)
