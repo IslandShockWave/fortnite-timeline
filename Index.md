@@ -20,7 +20,7 @@ Welcome to my Fortnite Chapter 1 timeline website! Explore the **lore** from Sea
 ---
 [In depth Explanation](https://github.com/IslandShockWave/fortnite-timeline/blob/main/Chapter1.md)
 
-[Season X Map](![image](https://github.com/user-attachments/assets/ea970871-0eb2-4e60-879b-2dd7fff1ea4a)
+Season X Map![image](https://github.com/user-attachments/assets/ea970871-0eb2-4e60-879b-2dd7fff1ea4a)
 
 
 
