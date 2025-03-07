@@ -7,19 +7,6 @@ title: Fortnite Chapter 1 Lore
 
 Welcome to my Fortnite Chapter 1 timeline website! Explore the **lore** from Season 1 to Season X.
 
-## **Pages:**
-- [Fortnite Lore Timeline](lore.md)
-
-## **Features of this Website:**
-- Multiple pages linked together
-- **Bold** and *italic* text
-- Ordered and unordered lists
-- A table summarizing key events
-- An embedded **image** and **video**
-- Custom colors for text and backgrounds
-
-Check out the full **timeline** [here](lore.md)!
-
 ---
 ### **Table of Seasons**
 | Season | Event |
