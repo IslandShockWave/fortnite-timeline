@@ -1,7 +1,3 @@
----
-layout: default
-title: Fortnite Lore
----
 
 <link rel="stylesheet" type="text/css" href="style.css">
 
